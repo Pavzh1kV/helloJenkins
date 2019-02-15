@@ -1,0 +1,2 @@
+# helloJenkins
+Тестирование CI Jenkins
